@@ -1,0 +1,11 @@
+
+A website on the various parts on the world including parrots, Eagles and other types.
+
+
+| **ID** | **Name**   | **Age** | **Score** | **Country** |
+|--------|------------|---------|-----------|-------------|
+| 1      | Alice      | 25      | 88        | USA         |
+| 2      | Bob        | 30      | 92        | UK          |
+| 3      | Charlie    | 22      | 79        | Canada      |
+| 4      | David      | 28      | 85        | Australia   |
+| 5      | Eva        | 24      | 90        | Germany     |
